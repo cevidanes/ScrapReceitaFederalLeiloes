@@ -5,7 +5,7 @@ import os
 
 
 #quando não quiser validar editar existentes trocar para N. Se Y ele pergunta a cada edital que existir se deseja sobescrever.
-questionar_existentes="N"
+questionar_existentes="Y"
 
 # PrimeiraPagina:
 # http://www25.receita.fazenda.gov.br/sle-sociedade/api/portal
